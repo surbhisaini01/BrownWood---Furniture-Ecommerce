@@ -58,6 +58,23 @@
 ![Screenshot 2024-04-30 100514](https://github.com/surbhisaini01/BrownWood---Furniture-Ecommerce/assets/168508091/bca81dc1-acf2-4e7c-98d5-7576c5fea07e)
 
 
+<h1>Admin Dashboard</h1>
+
+![Screenshot 2024-04-30 101533](https://github.com/surbhisaini01/BrownWood---Furniture-Ecommerce/assets/168508091/c0875a62-f8a3-4999-a9df-ad94fdfd128f)
+
+<h1>Total Products</h1>
+
+![Screenshot 2024-04-30 101546](https://github.com/surbhisaini01/BrownWood---Furniture-Ecommerce/assets/168508091/12c2e55d-4fa8-4f8b-88d1-1432d562a07a)
+
+<h1>Total Orders</h1>
+
+![Screenshot 2024-04-30 101601](https://github.com/surbhisaini01/BrownWood---Furniture-Ecommerce/assets/168508091/6d1790ab-819e-4358-964a-058496f5f8b6)
+
+<h1>Total Users</h1>
+
+![Screenshot 2024-04-30 101613](https://github.com/surbhisaini01/BrownWood---Furniture-Ecommerce/assets/168508091/58f3e99b-e16e-4c2f-9d91-0ef58c99ed8c)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
